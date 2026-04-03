@@ -2,3 +2,7 @@ node_modules
 .env
 dist
 lavalink/Lavalink.jar
+lavalink/plugins/*.jar
+npm
+tsx
+gilbert-3@1.0.0
