@@ -1,0 +1,80 @@
+**Privacy Policy for Gilbert Bot**
+
+**Last Updated:** April 2026
+
+## 1. Overview
+
+This Privacy Policy explains what data Gilbert ("the Bot") collects, how it is used, and your rights.
+
+## 2. Data Collected
+
+The Bot may collect and process:
+
+### a. Server Data
+
+* Server ID
+* Channel IDs
+* Role IDs
+
+### b. User Data
+
+* User ID
+* Username (if necessary for commands)
+
+### c. Command Data
+
+* Commands used (e.g., play, pause)
+* Music queries/search terms
+
+### d. Temporary Audio Data
+
+* URLs or metadata for music playback (not permanently stored)
+
+## 3. How Data is Used
+
+Data is used strictly to:
+
+* Provide core bot functionality (music playback, queues, etc.)
+* Improve performance and reliability
+* Debug errors and prevent abuse
+
+## 4. Data Storage
+
+* Most data is **temporary** and stored in memory
+* Cached data (e.g., search results) may be stored briefly to improve performance
+* No sensitive personal data is intentionally stored
+
+## 5. Data Sharing
+
+We do **not**:
+
+* Sell user data
+* Share data with third parties
+
+Exceptions:
+
+* If required by law
+* If necessary to prevent abuse or security threats
+
+## 6. Security
+
+Reasonable measures are taken to protect data, but no system is 100% secure.
+
+## 7. User Rights
+
+You may:
+
+* Request deletion of stored data (if applicable)
+* Remove the Bot from your server at any time
+
+## 8. Third-Party Services
+
+The Bot may interact with third-party services (e.g., music providers). These services have their own privacy policies.
+
+## 9. Changes to Policy
+
+This Privacy Policy may be updated at any time. Continued use of the Bot means you accept the updated policy.
+
+## 10. Contact
+
+For privacy concerns or requests, contact the developer through Discord or the official support channel.
